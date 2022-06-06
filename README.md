@@ -6,4 +6,4 @@ Credit to original creator wrenfairbank
 
 # Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Daxcez/fclonedrive
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Daxcez/CloneBot_Heroku
